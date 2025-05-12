@@ -1,6 +1,6 @@
 # Week 3 – Algorithms
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week was all about algorithms. We covered searching and sorting in more detail and learned about Big O notation to evaluate algorithm efficiency.
